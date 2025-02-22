@@ -1,4 +1,4 @@
-# Sound Design Concept for "Eyes on Exoplanets"
+# Sound Design Concept for NASA: Eyes on Exoplanets
 
 ### Overview
 This project proposes a sound design to accompany NASA’s interactive 3D web application, **"Eyes on Exoplanets"**, to enhance user immersion. The soundscape aligns with the tranquil and expansive nature of space, creating a hypnotic, introspective atmosphere.
